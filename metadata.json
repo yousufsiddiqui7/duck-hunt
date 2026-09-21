@@ -1,0 +1,6 @@
+{
+  "name": "Duck Hunt",
+  "description": "A retro Duck Hunt arcade game featuring authentic 8-bit visuals, synthesized audio, animated ducks, and the iconic dog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
